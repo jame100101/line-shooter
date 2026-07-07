@@ -1,0 +1,21 @@
+# build output
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/build.ninja
+/.ninja_*
+
+# local/editor files
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
+
+# transient screenshots
+/shot.png
+
+# packaged staging dir
+/dist/line-shooter-windows/
+
