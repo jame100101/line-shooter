@@ -2,6 +2,8 @@
 
 黑白线条风格的 2.5D / raycaster FPS 原型。项目使用 C++20 编写，OpenCV highgui 只负责窗口、帧缓冲显示和 2D UI 绘制；第一人称场景由项目内的 CPU raycaster、billboard 敌人和 hitscan 射线系统渲染。
 
+![Line Shooter 预览](assets/preview.png)
+
 ## 当前特性
 
 - 黑白线条场景：白色露天环境、地面网格、长方体障碍物和细线棱边。
